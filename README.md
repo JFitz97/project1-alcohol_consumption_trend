@@ -9,7 +9,7 @@ We’re conducting a study aimed at predicting alcohol consumption trends based 
 analyze alcohol consumption data from 85 regions in Russia during the years 1998-2016. Our datasets contain info on
 the sale of wine, beer, vodka, champagne, and brandy per capita, per year, and per region. We will analyze total 
 alcohol consumption by region and by type. We will also consider the unemployment rate and GDP in Russia during the
-years 1998-2016 to determine if there are any correlations with the amount of alcohol consumed.
+years 1998-2016 to determine if there are any correlations with the amount of alcohol consumed. Please view the "GT Data Project 1.pdf" file to see our presentation!
 
 ## Projected Analysis
 ----------------------------------------------------------------------------------------------------------------------------
